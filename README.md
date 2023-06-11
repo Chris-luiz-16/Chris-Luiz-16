@@ -10,8 +10,7 @@
 - 📫 How to reach me **luizchris23@gmail.com**
 
 
-<img alighn="right" alt="coding" width="400" src="![image](https://github.com/Chris-luiz-16/Chris-Luiz-16/assets/128575317/cead1358-82c5-4882-88ad-52911141e7b9)
-">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
