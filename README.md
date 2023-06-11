@@ -3,11 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chris-luiz-16&label=Profile%20views&color=0e75b6&style=flat" alt="chris-luiz-16" /> </p>
 
-- 🔭 I’m currently working as [Cloud Enginner](at Metclouds Technolgies)
+- 🔭 I’m currently working as Cloud Enginner at Metclouds Technolgies
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chris-luiz-16?tab=repositories](https://github.com/Chris-luiz-16?tab=repositories)
 
 - 📫 How to reach me **luizchris23@gmail.com**
+
+
+<img alighn="right" alt="coding" width="400" src="![image](https://github.com/Chris-luiz-16/Chris-Luiz-16/assets/128575317/cead1358-82c5-4882-88ad-52911141e7b9)
+">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
