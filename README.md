@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as Cloud Enginner at Metclouds Technolgies
 
-- 👨‍💻 All of my projects are available at [https://github.com/Chris-luiz-16?tab=repositories](https://github.com/Chris-luiz-16?tab=repositories)
+- 👨‍💻 All of my projects are available at my [github repo](https://github.com/Chris-luiz-16?tab=repositories)
 
 - 📫 How to reach me **luizchris23@gmail.com**
 
