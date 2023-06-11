@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working as Cloud Enginner at Metclouds Technolgies
 
+- ✌️ 2 years expirience in cloud, cloudstack and devops related tools 
+
 - 👨‍💻 All of my projects are available at my [Github repo](https://github.com/Chris-luiz-16?tab=repositories)
 
 - 📫 How to reach me **luizchris23@gmail.com**
