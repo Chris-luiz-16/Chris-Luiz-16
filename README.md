@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chris-luiz-16&label=Profile%20views&color=0e75b6&style=flat" alt="chris-luiz-16" /> </p>
 
-- 🔭 I’m currently working as Cloud Enginner at Metclouds Technolgies
+- 🔭 I’m currently working as Devops Engg at Sparksupport infotech
 
-- ✌️ 2 years expirience in cloud, cloudstack and devops related tools 
+- ✌️ 4 years expirience in cloud, cloudstack and devops related tools 
 
 - 👨‍💻 All of my projects are available at my [Github repo](https://github.com/Chris-luiz-16?tab=repositories)
 
